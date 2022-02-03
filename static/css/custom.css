@@ -1,0 +1,9 @@
+.text-desc {
+    overflow: scroll;
+    max-height: 147px;
+}
+/*-- Use For Custom Styling --*/
+
+a {
+    color: #f93d0f;
+}
